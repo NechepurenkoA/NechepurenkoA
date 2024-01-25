@@ -17,5 +17,5 @@
 Нахожусь в активном поиске работы!
 
 Актуальные средства для связи со мной:
-- Telegram: [@therealestbatiskaf][https://t.me/therealestbatiskaf]
+- Telegram: ![@therealestbatiskaf][https://t.me/therealestbatiskaf]
 - E-mail: nechepurenko.work@gmail.com

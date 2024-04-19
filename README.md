@@ -19,3 +19,5 @@
 Актуальные средства для связи со мной:
 - Telegram: [@therealestbatiskaf](https://t.me/therealestbatiskaf)
 - E-mail: nechepurenko.work@gmail.com
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NechepurenkoA)](https://git.io/streak-stats)
